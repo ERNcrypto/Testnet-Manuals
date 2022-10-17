@@ -11,7 +11,7 @@
 # Migrate your validator to another machine
 
 ### 1. Run a new full node on a new machine
-To setup full node you can follow my guide [nois node setup for testnet]()
+To setup full node you can follow my guide [nois node setup for testnet](https://github.com/ERNcrypto/Testnet-Manuals/blob/main/Nois/README.md)
 
 ### 2. Confirm that you have the recovery seed phrase information for the active key running on the old machine
 
