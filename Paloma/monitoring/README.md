@@ -99,7 +99,7 @@ ports used:
 ### Configure Grafana
 1. Open Grafana in your web browser. It should be available on port `9999`
 
-![image](https://raw.githubusercontent.com/stasiaantonova/my/main/img/160622455-09af4fbf-2efb-4afb-a8f8-57a2b247f705.png))
+![image](https://raw.githubusercontent.com/stasiaantonova/my/main/img/160622455-09af4fbf-2efb-4afb-a8f8-57a2b247f705.png)
 
 2. Login using defaults `admin/admin` and change password
 
