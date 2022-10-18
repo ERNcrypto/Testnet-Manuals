@@ -7,10 +7,10 @@
 </p>
 
 <p align="center">
-  <img height="100" height="auto" src="https://user-images.githubusercontent.com/50621007/172488614-7d93b016-5fe4-4a51-99e2-67da5875ab7a.png">
+  <img height="100" height="auto" src="https://raw.githubusercontent.com/stasiaantonova/my/main/img/Paloma_black.png">
 </p>
 
-# Paloma node setup for Testnet — paloma
+# Paloma node setup for Testnet — PALOMA
 
 Official documentation:
 >- [Validator setup instructions](https://github.com/palomachain/paloma)
