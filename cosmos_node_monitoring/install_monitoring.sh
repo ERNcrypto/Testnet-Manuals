@@ -58,4 +58,4 @@ cd $HOME
 rm -rf cosmos_node_monitoring
 git clone https://github.com/ERNcrypto/Testnet-Manuals/tree/main/cosmos_node_monitoring
 
-chmod +x $HOME/main/cosmos_node_monitoring/add_validator.sh
+chmod +x $HOME/cosmos_node_monitoring/add_validator.sh
