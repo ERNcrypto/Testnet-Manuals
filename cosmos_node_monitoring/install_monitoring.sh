@@ -57,5 +57,3 @@ echo -e "\e[1m\e[32m5. Downloading Node Monitoring config files ... \e[0m" && sl
 cd $HOME
 rm -rf cosmos_node_monitoring
 git clone https://github.com/ERNcrypto/Testnet-Manuals/tree/main/cosmos_node_monitoring.git
-
-chmod +x $HOME/cosmos_node_monitoring/add_validator.sh 
