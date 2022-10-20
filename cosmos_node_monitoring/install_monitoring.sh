@@ -57,3 +57,5 @@ echo -e "\e[1m\e[32m5. Downloading Node Monitoring config files ... \e[0m" && sl
 cd $HOME
 rm -rf cosmos_node_monitoring
 git clone https://github.com/ERNcrypto/Testnet-Manuals/tree/main/cosmos_node_monitoring.git
+
+yq -i -y '.scrape_configs[] |= (.job_name as $name | .static_configs += if $name == "prometheus" then [] else ([{targets:["'$1'" + (if $name == "node" then ":9100" elif $name == "cosmos" then ":'$2'" else ":9300" end)], labels:(if $name == "validator" then {address: "'$3'"} elif $name == "wallet" then {address: "'$4'"} elif $name == "node" then {instance: "'$5'"} else {} end)}]) end)' $HOME/cosmos_node_monitoring/prometheus/prometheus.yml
