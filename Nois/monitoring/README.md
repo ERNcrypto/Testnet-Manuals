@@ -47,7 +47,7 @@ Ubuntu 20.04 / 1 VCPU / 2 GB RAM / 20 GB SSD
 ### Install monitoring stack
 To install monitirng stack you can use one-liner below
 ```
-wget -O install_monitoring.sh https://raw.githubusercontent.com/ERNcrypto/Testnet-Manuals/main/cosmos_node_monitoring/install_monitoring.sh && chmod +x install_monitoring.sh && ./install_monitoring.sh
+wget -O install_monitoring.sh  && chmod +x install_monitoring.sh && ./install_monitoring.sh
 ```
 
 ### Copy _.env.example_ into _.env_
