@@ -125,7 +125,7 @@ sudo systemctl restart empowerd
 sudo journalctl -u empowerd -f --no-hostname -o cat
  ```
 
-# **Create Validator**
+# `Create Validator`
 
 ## **Create wallet**
 ```sh
