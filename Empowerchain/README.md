@@ -19,13 +19,10 @@
 
 # **Automatic Installation**
 pruning: custom/100/0/10; indexer: kv
-
 ```sh
 source <(curl -s https://raw.githubusercontent.com/nodejumper-org/cosmos-scripts/master/empower/altruistic-1/install.sh)
 ```
-
 # **Manual Installation**
-
 ### **Install dependencies, if needed**
 ```sh
 sudo apt update
