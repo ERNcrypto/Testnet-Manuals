@@ -1,4 +1,4 @@
-<strong><p style="font-size:20px" align="left">## Author ERN VENTURES
+<strong><p style="font-size:20px" align="left">Author ERN VENTURES
 <strong><p style="font-size:14px" align="left">
 <a href="https://ernventures.com/" target="_blank">Visit our WEBSITE <img src="" width="30"/></a></p></strong>
 <strong><p style="font-size:14px" align="left">
