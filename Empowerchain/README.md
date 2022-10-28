@@ -25,7 +25,7 @@ source <(curl -s https://raw.githubusercontent.com/nodejumper-org/cosmos-scripts
 ```
 # **Manual Installation**
 ### **Install dependencies, if needed**
-```sh
+```
 sudo apt update
 sudo apt install -y curl git jq lz4 build-essential unzip
  ```
