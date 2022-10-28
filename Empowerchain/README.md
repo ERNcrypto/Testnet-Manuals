@@ -1,6 +1,6 @@
 <strong><p style="font-size:20px" align="left">Author ERN VENTURES
 <strong><p style="font-size:14px" align="left">
-<a href="https://ernventures.com/" target="_blank">Visit our WEBSITE <img src="" width="30"/></a></p></strong>
+<a href="https://ernventures.com/" target="_blank">Visit our WEBSITE <img src="https://raw.githubusercontent.com/stasiaantonova/ERN/main/6.png" width="20"/></a></p></strong>
 <strong><p style="font-size:14px" align="left">
 <a href="https://t.me/ernventuresglobal" target="_blank">Join our TELEGRAM <img src="https://user-images.githubusercontent.com/50621007/183283867-56b4d69f-bc6e-4939-b00a-72aa019d1aea.png" width="20"/></a></p></strong>
 <strong><p style="font-size:14px" align="left">
