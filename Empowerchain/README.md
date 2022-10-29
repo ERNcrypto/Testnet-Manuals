@@ -18,13 +18,12 @@
 [EXPLORER](https://testnet.ping.pub/empower)\
 [Discord](https://discord.com/channels/948213834164883488/948259254203195473) 
 
-# **Automatic Installation**
+# ***Automatic Installation***
 pruning: custom/100/0/10; indexer: kv
 ```sh
 source <(curl -s https://raw.githubusercontent.com/nodejumper-org/cosmos-scripts/master/empower/altruistic-1/install.sh)
 ```
-# **Manual Installation**
-### **Install dependencies, if needed**
+# ***Manual Installation***
 ```
 sudo apt update
 sudo apt install -y curl git jq lz4 build-essential unzip
