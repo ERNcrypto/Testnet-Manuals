@@ -21,7 +21,7 @@ wget -O nois.sh https://raw.githubusercontent.com/ERNcrypto/Testnet-Manuals/main
 ```
 
 # ***Manual Installation***
-You can follow [manual guide](https://raw.githubusercontent.com/ERNcrypto/Testnet-Manuals/main/Nois/manual_install.md) if you better prefer setting up node manually
+You can follow [manual guide](https://github.com/ERNcrypto/Testnet-Manuals/blob/main/Nois/manual_install.md) if you better prefer setting up node manually
 
 ## Post installation
 
