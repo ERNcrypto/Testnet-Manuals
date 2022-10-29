@@ -11,8 +11,7 @@
   <img src="https://raw.githubusercontent.com/stasiaantonova/ERN/main/img/beced7f6-8f69-4767-b520-1dda5b7460e6.png">
 </p> 
 
-
-# **Guide for Mande Testnet **
+# **Guide for Mande Testnet**
 
 ### Hardware Requirements
 >2 CPU, 4 GB RAM, 100 GB SSD</p>
