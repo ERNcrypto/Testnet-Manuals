@@ -7,7 +7,9 @@
 <a href="https://discord.gg/8htnaeTx" target="_blank">Join our DISCORD <img src="https://user-images.githubusercontent.com/50621007/176236430-53b0f4de-41ff-41f7-92a1-4233890a90c8.png" width="20"/></a></p></strong>
 <hr>
 
-![uptick](https://raw.githubusercontent.com/stasiaantonova/ERN/main/img/OKP4-1.png)
+<p align="center">
+  <img height="100" height="auto" src="https://raw.githubusercontent.com/stasiaantonova/ERN/main/img/OKP4-1.png">
+</p>
 
 # **Guide for OKP4 Testnet okp4-nemeton**
 
