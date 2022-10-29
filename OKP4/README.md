@@ -8,7 +8,7 @@
 <hr>
 
 
-![uptick](https://raw.githubusercontent.com/stasiaantonova/ERN/main/img/Carre_Plan-de-travail-1.png)
+![uptick](https://raw.githubusercontent.com/stasiaantonova/ERN/main/img/OKP4-1.png)
 
 # **Guide for OKP4 Testnet okp4-nemeton**
 
