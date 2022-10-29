@@ -10,12 +10,12 @@
 
 ![uptick](https://raw.githubusercontent.com/stasiaantonova/ERN/main/img/Carre_Plan-de-travail-1.png)
 
-## **Guide for OKP4 Testnet okp4-nemeton**
+# **Guide for OKP4 Testnet okp4-nemeton**
 
 ### Hardware Requirements
 >4CPU 8RAM 200GB</p>
 
-# **Manual Installation**
+## **Manual Installation**
 ### **Install dependencies**
 ```
 sudo apt update
