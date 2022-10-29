@@ -11,7 +11,7 @@
   <img height="100" height="auto" src="https://user-images.githubusercontent.com/50621007/194469665-36158a7f-b85b-4048-baa4-87199508d3f0.png">
 </p>
 
-# **Guide for Nois testnet — nois-testnet-003
+# **Guide for Nois testnet — nois-testnet-003**
 #### Hardware Requirements
 >4x CPUs,8GB RAM, 100GB SSD
  
