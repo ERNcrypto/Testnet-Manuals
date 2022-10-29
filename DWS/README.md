@@ -1,10 +1,11 @@
-<p style="font-size:14px" align="right">
-<a href="https://ernventures.com/" target="_blank">Visit our WEBSITE <img src="" width="30"/></a>
-<p style="font-size:14px" align="right">
-<a href="https://t.me/ernventuresglobal" target="_blank">Join our TELEGRAM <img src="https://user-images.githubusercontent.com/50621007/183283867-56b4d69f-bc6e-4939-b00a-72aa019d1aea.png" width="30"/></a>
-<p style="font-size:14px" align="right">
-<a href="https://discord.gg/8htnaeTx" target="_blank">Join our DISCORD <img src="https://user-images.githubusercontent.com/50621007/176236430-53b0f4de-41ff-41f7-92a1-4233890a90c8.png" width="30"/></a>
-</p>
+## <strong><p style="font-size:20px" align="left"> Author ERN VENTURES
+<strong><p style="font-size:14px" align="left">
+<a href="https://ernventures.com/" target="_blank">Visit our WEBSITE <img src="https://raw.githubusercontent.com/stasiaantonova/ERN/main/6.png" width="30"/></a></p></strong>
+<strong><p style="font-size:14px" align="left">
+<a href="https://t.me/ernventuresglobal" target="_blank">Join our TELEGRAM <img src="https://user-images.githubusercontent.com/50621007/183283867-56b4d69f-bc6e-4939-b00a-72aa019d1aea.png" width="20"/></a></p></strong>
+<strong><p style="font-size:14px" align="left">
+<a href="https://discord.gg/8htnaeTx" target="_blank">Join our DISCORD <img src="https://user-images.githubusercontent.com/50621007/176236430-53b0f4de-41ff-41f7-92a1-4233890a90c8.png" width="20"/></a></p></strong>
+<hr>
 
 <p align="center">
   <img height="100" height="auto" src="https://raw.githubusercontent.com/stasiaantonova/ERN/main/img/DWS.png">
@@ -18,11 +19,11 @@
 |-----------|----|------|----------|
 | Testnet   |   8| 8GB  | 100GB    |
 
-# 1) Auto_install script
+## Auto_install script
 ```bash
 wget -O dws.sh https://raw.githubusercontent.com/ERNcrypto/Testnet-Manuals/main/DWS/dws.sh && chmod +x dws.sh && ./dws.sh
 ```
-# 2) Manual installation
+## Manual installation
 
 ### Preparing the server
 
