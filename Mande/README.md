@@ -16,7 +16,7 @@
 ### Hardware Requirements
 >2 CPU, 4 GB RAM, 100 GB SSD</p>
 
-## **Manual Installation**
+## ***Manual Installation***
 ### **Install dependencies**
 ```sh
 apt update && apt upgrade -y
