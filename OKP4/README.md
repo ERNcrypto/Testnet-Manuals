@@ -8,7 +8,7 @@
 <hr>
 
 <p align="center">
-  <img height="100" height="auto" src="https://raw.githubusercontent.com/stasiaantonova/ERN/main/img/OKP4-1.png">
+  <img src="https://raw.githubusercontent.com/stasiaantonova/ERN/main/img/OKP4-1.png">
 </p>
 
 # **Guide for OKP4 Testnet okp4-nemeton**
