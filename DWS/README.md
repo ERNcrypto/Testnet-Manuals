@@ -19,11 +19,11 @@
 |-----------|----|------|----------|
 | Testnet   |   8| 8GB  | 100GB    |
 
-## ***Auto_install script***
+# ***Auto_install script***
 ```bash
 wget -O dws.sh https://raw.githubusercontent.com/ERNcrypto/Testnet-Manuals/main/DWS/dws.sh && chmod +x dws.sh && ./dws.sh
 ```
-## ***Manual installation***
+# ***Manual installation***
 
 ### Preparing the server
 
