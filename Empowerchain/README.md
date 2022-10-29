@@ -10,7 +10,7 @@
 
 ![empower](https://user-images.githubusercontent.com/104348282/192093493-67779857-653e-4018-8c78-49530690f7a0.png)
 
-# Guide for Empower Testnet altruistic-1
+# **Guide for Empower Testnet altruistic-1**
 
 ### Hardware Requirements
 4CPU 8RAM 200GB</p>
