@@ -30,7 +30,7 @@ wget -O dws.sh https://raw.githubusercontent.com/ERNcrypto/Testnet-Manuals/main/
     sudo apt update && sudo apt upgrade -y && \
     sudo apt install curl tar wget clang pkg-config libssl-dev libleveldb-dev jq build-essential bsdmainutils git make ncdu htop screen unzip bc fail2ban htop -y
 
-## GO 18.3 (one command)
+### GO 18.3 (one command)
     ver="1.18.3" && \
     cd $HOME && \
     wget "https://golang.org/dl/go$ver.linux-amd64.tar.gz" && \
@@ -41,7 +41,7 @@ wget -O dws.sh https://raw.githubusercontent.com/ERNcrypto/Testnet-Manuals/main/
     source $HOME/.bash_profile && \
     go version
 
-# Binary   16.09.22
+### Binary   16.09.22
 ```bash
 git clone https://github.com/deweb-services/deweb.git
 cd deweb
@@ -52,17 +52,17 @@ make install
 + version: 0.3.1
 + commit: 05a3111414ae9b510672925166b727371b669246
 
-## Initialisation
+### Initialisation
 ```console
 dewebd init STAVRguide --chain-id deweb-testnet-sirius
 dewebd config chain-id deweb-testnet-sirius
 ```
-## Add wallet
+### Add wallet
 ```console
 dewebd keys add <walletName>
 dewebd keys add <walletName> --recover
 ```
-# Genesis
+### Genesis
 ```bash
 curl -s https://raw.githubusercontent.com/deweb-services/deweb/main/genesis.json > ~/.deweb/config/genesis.json
 
@@ -104,12 +104,12 @@ sed -i 's/max_num_inbound_peers =.*/max_num_inbound_peers = 100/g' $HOME/.deweb/
 sed -i 's/max_num_outbound_peers =.*/max_num_outbound_peers = 100/g' $HOME/.deweb/config/config.toml
 ```
 
-## Download addrbook
+### Download addrbook
 ```console
 wget -O $HOME/.deweb/config/addrbook.json "https://raw.githubusercontent.com/ERNcrypto/Testnet-Manuals/main/DWS/addrbook.json"
 ```
 
-# Create a service file
+## Create a service file
 ```console
 sudo tee /etc/systemd/system/dewebd.service > /dev/null <<EOF
 [Unit]
@@ -128,7 +128,7 @@ WantedBy=multi-user.target
 EOF
 ```
 
-# Start node (one command)
+### Start node (one command)
 ```console
 sudo systemctl daemon-reload && \
 sudo systemctl enable dewebd && \
@@ -136,7 +136,7 @@ sudo systemctl restart dewebd && \
 sudo journalctl -u dewebd -f -o cat
 ```
 
-## Create validator
+### Create validator
 ```
 dewebd tx staking create-validator \
 --amount 1000000udws \
