@@ -12,7 +12,7 @@
 </p> 
 
 
-## **Guide for Mande Testnet **
+# **Guide for Mande Testnet **
 
 ### Hardware Requirements
 >2 CPU, 4 GB RAM, 100 GB SSD</p>
