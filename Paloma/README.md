@@ -1,52 +1,29 @@
-<p style="font-size:14px" align="right">
-<a href="https://t.me/ernventuresglobal" target="_blank">Join our TELEGRAM <img src="https://user-images.githubusercontent.com/50621007/183283867-56b4d69f-bc6e-4939-b00a-72aa019d1aea.png" width="30"/></a>
-<p style="font-size:14px" align="right">
-<a href="https://discord.gg/8htnaeTx" target="_blank">Join our DISCORD <img src="https://user-images.githubusercontent.com/50621007/176236430-53b0f4de-41ff-41f7-92a1-4233890a90c8.png" width="30"/></a>
-<p style="font-size:14px" align="right">
-<a href="https://ernventures.com/" target="_blank">Visit our WEBSITE <img src="" width="30"/></a>
-</p>
+## <strong><p style="font-size:20px" align="left"> Author ERN VENTURES
+<strong><p style="font-size:14px" align="left">
+<a href="https://ernventures.com/" target="_blank">Visit our WEBSITE <img src="https://raw.githubusercontent.com/stasiaantonova/ERN/main/6.png" width="30"/></a></p></strong>
+<strong><p style="font-size:14px" align="left">
+<a href="https://t.me/ernventuresglobal" target="_blank">Join our TELEGRAM <img src="https://user-images.githubusercontent.com/50621007/183283867-56b4d69f-bc6e-4939-b00a-72aa019d1aea.png" width="20"/></a></p></strong>
+<strong><p style="font-size:14px" align="left">
+<a href="https://discord.gg/8htnaeTx" target="_blank">Join our DISCORD <img src="https://user-images.githubusercontent.com/50621007/176236430-53b0f4de-41ff-41f7-92a1-4233890a90c8.png" width="20"/></a></p></strong>
+<hr>
 
 <p align="center">
   <img height="100" height="auto" src="https://raw.githubusercontent.com/stasiaantonova/my/main/img/Paloma_black.png">
 </p>
 
-# Paloma node setup for Testnet — PALOMA
-
-Official documentation:
->- [Validator setup instructions](https://github.com/palomachain/paloma)
-
-Explorer:
->-  https://paloma.explorers.guru/
-
-## Usefull tools and references
-> To set up monitoring for your validator node navigate to [Set up monitoring and alerting for paloma validator](https://github.com/ERNcrypto/Testnet-Manuals/blob/main/Paloma/monitoring/README.md)
->
-> To migrate your validator to another machine read [Migrate your validator to another machine](https://github.com/ERNcrypto/Testnet-Manuals/blob/main/Paloma/migrate_validator.md)
-)
-
-## Hardware Requirements
-Like any Cosmos-SDK chain, the hardware requirements are pretty modest.
+## **Guide for Paloma Testnet** 
 
 ### Minimum Hardware Requirements
- - 3x CPUs; the faster clock speed the better
- - 4GB RAM
- - 80GB Disk
- - Permanent Internet connection (traffic will be minimal during testnet; 10Mbps will be plenty - for production at least 100Mbps is expected)
+> 3x CPU, 4GB RAM, 80GB SSD
 
 ### Recommended Hardware Requirements 
- - 4x CPUs; the faster clock speed the better
- - 16GB RAM
- - 200GB of storage (SSD or NVME)
- - Permanent Internet connection (traffic will be minimal during testnet; 10Mbps will be plenty - for production at least 100Mbps is expected)
+>4x CPUs, 16GB RAM, 200GB SSD 
 
-## Set up your paloma fullnode
-### Option 1 (automatic)
-You can setup your paloma fullnode in few minutes by using automated script below. It will prompt you to input your validator node name!
+# ***Auto_install script***
 ```
 wget -O paloma.sh https://raw.githubusercontent.com/ERNcrypto/Testnet-Manuals/main/Paloma/paloma.sh && chmod +x paloma.sh && ./paloma.sh
 ```
-
-### Option 2 (manual)
+# ***Manual installation***
 You can follow [manual guide](https://github.com/ERNcrypto/Testnet-Manuals/blob/main/Paloma/manual_install.md) if you better prefer setting up node manually
 
 ## Post installation
