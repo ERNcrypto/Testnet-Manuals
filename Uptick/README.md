@@ -16,7 +16,7 @@
 ### Hardware Requirements
 >4CPU 8RAM 200GB</p>
 
-## **Manual Installation**
+# ***Manual Installation***
 ### **Install dependencies**
 ```
 sudo apt update
