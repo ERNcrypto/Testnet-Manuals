@@ -109,11 +109,6 @@ empowerd tendermint unsafe-reset-all --home $HOME/.empowerchain --keep-addr-book
 cd "$HOME/.empowerchain" || return
 rm -rf data
   ```
-
-   ```sh
-SNAP_NAME=$(curl -s https://snapshots2-testnet.nodejumper.io/empower-testnet/ | egrep -o ">altruistic-1.*\.tar.lz4" | tr -d ">")
-curl https://snapshots2-testnet.nodejumper.io/empower-testnet/${SNAP_NAME} | lz4 -dc - | tar -xf - -C $HOME/.empowerchain
-  ```
 ### **Restart service**
    ```sh
 sudo systemctl daemon-reload
