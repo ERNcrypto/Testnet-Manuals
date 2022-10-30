@@ -1,50 +1,27 @@
-<p style="font-size:14px" align="right">
-<a href="https://t.me/ernventuresglobal" target="_blank">Join our telegram <img src="https://user-images.githubusercontent.com/50621007/183283867-56b4d69f-bc6e-4939-b00a-72aa019d1aea.png" width="30"/></a>
-<a href="https://discord.gg/8htnaeTx" target="_blank">Join our discord <img src="https://user-images.githubusercontent.com/50621007/176236430-53b0f4de-41ff-41f7-92a1-4233890a90c8.png" width="30"/></a>
-<a href="https://ernventures.com/" target="_blank">Visit our website <img src="" width="30"/></a>
-</p>
+## <strong><p style="font-size:20px" align="left"> Author ERN VENTURES
+<strong><p style="font-size:14px" align="left">
+<a href="https://ernventures.com/" target="_blank">Visit our WEBSITE <img src="https://raw.githubusercontent.com/stasiaantonova/ERN/main/6.png" width="30"/></a></p></strong>
+<strong><p style="font-size:14px" align="left">
+<a href="https://t.me/ernventuresglobal" target="_blank">Join our TELEGRAM <img src="https://user-images.githubusercontent.com/50621007/183283867-56b4d69f-bc6e-4939-b00a-72aa019d1aea.png" width="20"/></a></p></strong>
+<strong><p style="font-size:14px" align="left">
+<a href="https://discord.gg/8htnaeTx" target="_blank">Join our DISCORD <img src="https://user-images.githubusercontent.com/50621007/176236430-53b0f4de-41ff-41f7-92a1-4233890a90c8.png" width="20"/></a></p></strong>
+<hr>
 
 <p align="center">
   <img height="100" height="auto" src="https://user-images.githubusercontent.com/50621007/192942503-d3df529e-1ca8-465e-a110-5d4a0c4f438e.png">
 </p>
 
-# terp node setup for testnet — athena-1
-
-Official documentation:
->- [Validator setup instructions](https://github.com/terpnetwork/terp-core)
-
-Explorer:
->-  https://explorer.kjnodes.com/terp
-
-## Usefull tools and references
-> To set up monitoring for your validator node navigate to [Set up monitoring and alerting for terp validator](https://github.com/ERNcrypto/Testnet-Manuals/blob/main/Terp/monitoring/README.md)
->
-> To migrate your validator to another machine read [Migrate your validator to another machine](https://github.com/ERNcrypto/Testnet-Manuals/blob/main/Terp/migrate_validator.md)
-
-## Hardware Requirements
-Like any Cosmos-SDK chain, the hardware requirements are pretty modest.
+## **Guide for Terp Testnet athena-1** 
 
 ### Minimum Hardware Requirements
- - 4x CPUs; the faster clock speed the better
- - 8GB RAM
- - 100GB of storage (SSD or NVME)
- - Permanent Internet connection (traffic will be minimal during testnet; 10Mbps will be plenty - for production at least 100Mbps is expected)
-
-### Recommended Hardware Requirements 
- - 8x CPUs; the faster clock speed the better
- - 64GB RAM
- - 1TB of storage (SSD or NVME)
- - Permanent Internet connection (traffic will be minimal during testnet; 10Mbps will be plenty - for production at least 100Mbps is expected)
-
-## Set up your terp fullnode
-### Option 1 (automatic)
-You can setup your terp fullnode in few minutes by using automated script below. It will prompt you to input your validator node name!
+> 4x CPUs, 8GB RAM, 100GB SSD 
+  
+# ***Auto_install script***
 ```
 wget -O terp.sh https://raw.githubusercontent.com/ERNcrypto/Testnet-Manuals/main/Terp/terp.sh && chmod +x terp.sh && ./terp.sh
 ```
-
-### Option 2 (manual)
-You can follow [manual guide](https://raw.githubusercontent.com/ERNcrypto/Testnet-Manuals/main/Terp/manual_install.md) if you better prefer setting up node manually
+# ***Manual Installation***
+You can follow [manual guide](https://github.com/ERNcrypto/Testnet-Manuals/blob/main/Terp/manual_install.md) if you better prefer setting up node manually
 
 ## Post installation
 
