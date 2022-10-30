@@ -11,7 +11,7 @@
   <img height="100" height="auto" src="https://raw.githubusercontent.com/stasiaantonova/my/main/img/Paloma_black.png">
 </p>
 
-## **Guide for Paloma Testnet** 
+# **Guide for Paloma Testnet** 
 
 ### Minimum Hardware Requirements
 > 3x CPU, 4GB RAM, 80GB SSD
