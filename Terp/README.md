@@ -11,7 +11,7 @@
   <img height="100" height="auto" src="https://user-images.githubusercontent.com/50621007/192942503-d3df529e-1ca8-465e-a110-5d4a0c4f438e.png">
 </p>
 
-# **Guide for Terp Testnet athena-1** 
+<p align="center"> # **Guide for Terp Testnet athena-1** 
 
 ### Minimum Hardware Requirements
 > 4x CPUs, 8GB RAM, 100GB SSD 
