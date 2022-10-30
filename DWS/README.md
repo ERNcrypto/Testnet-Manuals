@@ -54,7 +54,7 @@ make install
 
 ### Initialisation
 ```console
-dewebd init STAVRguide --chain-id deweb-testnet-sirius
+dewebd init ERNcryptoguide --chain-id deweb-testnet-sirius
 dewebd config chain-id deweb-testnet-sirius
 ```
 ### Add wallet
@@ -149,7 +149,7 @@ dewebd tx staking create-validator \
 --details="" \
 --website="" \
 --pubkey $(dewebd tendermint show-validator) \
---moniker STAVRguide \
+--moniker ERNcryptoguide \
 --chain-id deweb-testnet-sirius \
 --gas="auto" \
 --fees 100udws
