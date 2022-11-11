@@ -18,11 +18,6 @@
 [EXPLORER](https://testnet.ping.pub/empower)\
 [Discord](https://discord.com/channels/948213834164883488/948259254203195473) 
 
-# ***Automatic Installation***
-pruning: custom/100/0/10; indexer: kv
-```sh
-source <(curl -s https://raw.githubusercontent.com/nodejumper-org/cosmos-scripts/master/empower/altruistic-1/install.sh)
-```
 # ***Manual Installation***
 ```
 sudo apt update
